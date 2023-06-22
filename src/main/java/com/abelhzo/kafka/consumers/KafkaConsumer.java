@@ -32,3 +32,36 @@ public class KafkaConsumer {
 	}
 	
 }
+/*
+  {
+	  "idMovement": 1687474510497,
+	  "type": "TRANSFER",
+	  "amount": 50000.0,
+	  "moment": [2023, 6, 22, 17, 55, 10, 497618847
+	  ],
+	  "origin": {
+	    "noAccount": "12345678901",
+	    "name": "Abel HZO",
+	    "email": "aho_malms@gmail.com",
+	    "birthday": 512200800000
+	  },
+	  "destination": {
+	    "noAccount": "98765432109",
+	    "name": "Grisel",
+	    "email": "miamor@gmail.com",
+	    "birthday": 648972000000
+	  },
+	  "stepsDTO": [
+	    {
+	      "idStep": 1687474510497,
+	      "step": "PENDIENTE",
+	      "action": "ESPERA"
+	    },
+	    {
+	      "idStep": 1687474510497,
+	      "step": "ALTA",
+	      "action": "INSERTAR"
+	    }
+	  ]
+	}
+*/
